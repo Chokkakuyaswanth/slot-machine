@@ -1,0 +1,57 @@
+# 🎰 Slot Machine Web Game
+
+A simple and interactive slot machine game built with HTML, CSS, and JavaScript. Play, bet, and win virtual cash in a responsive and visually appealing UI!
+
+---
+
+## 🚀 Features
+
+- 💰 Deposit any starting amount
+- 🎯 Choose the number of lines to bet on
+- 🎲 Spin the slot machine and win based on symbol matches
+- 💹 Winnings based on symbol value and match count
+- 🔁 Option to replay the game as long as you have balance
+- 📱 Responsive and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML**
+- **CSS**
+- **Vanilla JavaScript**
+
+No external frameworks or libraries needed.
+
+---
+
+## 📷 Screenshots
+
+![Game UI](./screenshot.png) <!-- Replace with your screenshot file -->
+
+---
+
+## 🧩 How to Play
+
+1. Enter your **initial deposit amount**
+2. Click **Start Game**
+3. Select number of lines (1–3) to bet on
+4. Enter bet amount per line
+5. Click **Spin**
+6. Watch for matching symbols and **collect your winnings!**
+7. Keep playing until you run out of balance or choose to quit
+
+---
+
+## 💻 Running Locally
+
+1. Clone the repository or [download ZIP](https://github.com/yourusername/slot-machine/archive/main.zip)
+2. Open the project folder
+3. Double-click on `index.html` to launch in your browser
+
+> ✅ No build tools or setup required — it's pure frontend!
+
+---
+
+## 📁 Folder Structure
+
